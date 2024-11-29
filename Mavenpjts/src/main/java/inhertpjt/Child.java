@@ -4,6 +4,7 @@ public class Child extends Parent {
 	public  void disp()
 	{
 		System.out.println("in B");
+		System.out.println("value a: "+a);
 	}
 
 	public static void main(String[] args) {
