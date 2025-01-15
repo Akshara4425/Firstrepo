@@ -1,6 +1,6 @@
 package multipleinheritance;
 
-public class Childclass implements Interface1,Interface2
+public class Childclass implements Interface1,Interface2, Interface3 
 
 {
 
